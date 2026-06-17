@@ -12,3 +12,4 @@ So the first prototype will be work in these steps :
 
 I am thinking that I will add DynamoDB or Aurora serverless to store customer data but still I do not know at this point.
 I will be starting the project today 17-6-2026
+note : in this phase at the project it will only contain the dashboard as front-end , in the future the application will have it's unique front-end  and login page .
